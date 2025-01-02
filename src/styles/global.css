@@ -28,20 +28,18 @@ body {
 }
 
 .menu {
-	display: block;
 	font-size: 42px;
 	margin: auto;
-	margin-bottom: 5px;
+	margin-bottom: 20px;
 	border-style: solid;
 	border-width: 3px;
 	width: 10%;
-	padding: 5px;
+	padding: 10px;
 	background-color: lightgrey;
 	border: 3px solid black;
 	text-align: center;
 	text-decoration: none;
 	color: black;
-	padding: 5px 0px 5px 0px;
 	font-family: "Bronco";
 }
 
