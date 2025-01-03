@@ -3,6 +3,18 @@ html, body {
 	width: 100%;
 	height: 100%;
 }
+@font-face {
+	font-family: 'OldLondon';
+	src: url('/src/assets/fontes/OldLondon.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Bronco';
+	src: url('/src/assets/fontes/BroncoPersonalUse.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
 
 body {
 	color: #333;
@@ -30,6 +42,7 @@ body {
 	text-decoration: none;
 	color: black;
 	padding: 5px 0px 5px 0px;
+	font-family: "Bronco";
 }
 
 .menu:hover{
