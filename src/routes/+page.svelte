@@ -12,7 +12,8 @@
         font-family: 'OldLondon';
         font-size: 112px;
         margin: 5%;
-        color: antiquewhite;
+        color: rgb(243, 227, 206);
+        text-shadow: 3px 3px 5px #ee2424;
     }
 
         @font-face {
